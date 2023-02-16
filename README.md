@@ -12,7 +12,7 @@ Let's start with an overall look here and comparison to its predecessor VINDRIKT
 
 <img src="images/4.jpeg" width="500px">
 
-This device is definitely an improvement compared to the previous one. IKEA engineers seem to have considered the previous generation when developing this one. Starting with making it a bit harder for us to disassemble and use three different screw types. You will need a long **Torx T6** for outer screws, **Philips 2.0** for the inner frame and **Philips 1.5** for PCB screws. The display is held in place with only sticky tape, so be careful prying it.
+This device is definitely an improvement compared to the previous one. IKEA engineers seem to have considered the previous generation when developing this one. Starting with making it a bit harder for us to disassemble and use three different screw types. You will need a long **Torx T6** for outer screws, **Philips 2.0** for the inner frame and **Philips 1.5** for PCB screws. The display cover is held in place with only sticky tape, so be careful prying it.
 
 <img src="images/5.jpeg" width="500px">
 
