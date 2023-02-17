@@ -1,0 +1,45 @@
+{
+	"id": "xxxxxxxxxxx",
+	"type": "sensor",
+	"deviceType": "environmentSensor",
+	"createdAt": "2023-02-16T20:13:47.000Z",
+	"isReachable": true,
+	"lastSeen": "2023-02-17T18:06:35.000Z",
+	"attributes": {
+		"customName": "Sensor",
+		"firmwareVersion": "1.0.010",
+		"hardwareVersion": "1",
+		"manufacturer": "IKEA of Sweden",
+		"model": "VINDSTYRKA",
+		"productCode": "E2112",
+		"serialNumber": "xxxxxxxxxx",
+		"currentTemperature": 19,
+		"currentRH": 53,
+		"currentPM25": 3,
+		"maxMeasuredPM25": 999,
+		"minMeasuredPM25": 0,
+		"vocIndex": 19,
+		"identifyPeriod": 0,
+		"identifyStarted": "2000-01-01T00:00:00.000Z",
+		"permittingJoin": false,
+		"otaPolicy": "autoUpdate",
+		"otaProgress": 0,
+		"otaScheduleEnd": "00:00",
+		"otaScheduleStart": "00:00",
+		"otaState": "readyToCheck",
+		"otaStatus": "upToDate"
+	},
+	"capabilities": {
+		"canSend": [],
+		"canReceive": ["customName"]
+	},
+	"room": {
+		"id": "xxxxxxxxxxx",
+		"name": "Living room",
+		"color": "ikea_green_no_65",
+		"icon": "rooms_sofa"
+	},
+	"deviceSet": [],
+	"remoteLinks": [],
+	"isHidden": false
+}
