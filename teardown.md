@@ -2,8 +2,6 @@
 
 Let's start with an overall look here and comparison to its predecessor VINDRIKTNING.
 
-<img src="images/1.jpeg" width="500px">
-
 <img src="images/2.jpeg" width="500px">
 
 <img src="images/3.jpeg" width="500px">

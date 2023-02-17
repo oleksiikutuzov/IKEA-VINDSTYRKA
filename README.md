@@ -2,6 +2,8 @@
 
 Hello fellow makers or just anyone who accidentally got here. I recently got this device and was curious about what's inside and whether this can be hacked. Especially while the IKEA Smart app doesn't expose its metrics to HomeKit.
 
+<img src="images/1.jpeg" width="500px">
+
 Here's a list of resources I already gathered:
 
 1. [Teardown pictures](teardown.md)
