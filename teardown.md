@@ -28,7 +28,7 @@ Additional PCB with buttons on top of the sensor frame. A lot of marked test poi
 
 <img src="images/9.jpeg" width="500px">
 
-The main PCB with VINKA [VK15218B](IMG_5576.jpeg) MCU and [MGM210L022JNF2](https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-modules) radio module from Silicon Labs. Supports both Zigbee and Thread, is Matter compatible but feels like it's unlikely that it will get a Matter over Thread upgrade anytime soon.
+The main PCB with VINKA VK15218B MCU whichseems to be an [LCD driver](https://www.szvinka.com/uploadfile/Datasheet/LCD/VK1621S/VK1621S-1_V1.3-EN.pdf) (thanks to [@johanneswilkens](https://github.com/johanneswilkens)) and [MGM210L022JNF2](https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-modules) radio module from Silicon Labs. Supports both Zigbee and Thread, is Matter compatible but feels like it's unlikely that it will get a Matter over Thread upgrade anytime soon.
 
 <img src="images/10.jpeg" width="500px">
 
